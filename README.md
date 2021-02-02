@@ -1,2 +1,2 @@
 # harshbisle.github.io
- My portfoli
+ My portfolio
