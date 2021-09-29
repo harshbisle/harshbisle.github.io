@@ -1,6 +1,6 @@
 # harshbisle.github.io
 
-Hey! Thanks for visiting. It would helpful if you visit my and suggest improvements.
+Hey! Thanks for visiting. It would helpful if you suggest some improvements.
 
 Feel free to get in touch and open new issues.
 
